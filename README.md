@@ -11,4 +11,5 @@
 <ul>
 	<li>Download/Clone the repository</li>
 	<li>Import as a new Project in Unity</li>
+	<li>Hit Play</li>
 </ul>
